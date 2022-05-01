@@ -1,7 +1,7 @@
 {
   "name": "bicheng",
   "version": "0.1.0",
-  "homepage": "https://gx-chen.gitee.io/bicheng/",
+  "homepage": "https://gx-chen.github.io/bicheng/",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
